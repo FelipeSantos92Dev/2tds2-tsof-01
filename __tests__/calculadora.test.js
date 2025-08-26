@@ -24,6 +24,6 @@ describe("Calculadora", () => {
     const resultado = subtrair(a, b);
 
     // Assert (Verificar)
-    expect(resultado).toBe(100);
+    expect(resultado).toBe(10);
   });
 });
